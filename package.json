@@ -1,0 +1,20 @@
+{
+  "name": "StuMiniProj",
+  "version": "1.0.0",
+  "description": "meh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouFarted/StuMiniProj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YouFarted/StuMiniProj/issues"
+  },
+  "homepage": "https://github.com/YouFarted/StuMiniProj#readme"
+}
