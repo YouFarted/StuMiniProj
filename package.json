@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/YouFarted/StuMiniProj/issues"
   },
-  "homepage": "https://github.com/YouFarted/StuMiniProj#readme"
+  "homepage": "https://github.com/YouFarted/StuMiniProj#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }
